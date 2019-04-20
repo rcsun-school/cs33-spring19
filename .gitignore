@@ -50,3 +50,7 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+/.vs
+/datalab1/.vs/datalab1/v15/.suo
+/datalab1/datalab1/Debug/datalab1.tlog
+/datalab1/.vs/datalab1/v15
